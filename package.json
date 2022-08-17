@@ -1,0 +1,17 @@
+{
+  "name": "slack-assignment-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "@supabase/supabase-js": "^1.35.6",
+    "dotenv": "^16.0.1"
+  }
+}
